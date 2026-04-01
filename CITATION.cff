@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the companion preprint."
+title: "Multi-Agent AI for Clinical Trial Data Management"
+version: 0.2.1
+date-released: 2026-03-31
+license: MIT
+authors:
+  - family-names: Arogyasami
+    given-names: DanielMartin
+references:
+  - type: article
+    title: "Multi-Agent AI Architectures for Clinical Trial Data Management"
+    authors:
+      - family-names: Arogyasami
+        given-names: DanielMartin
+    year: 2026
+    notes: "Preprint"

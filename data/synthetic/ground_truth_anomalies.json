@@ -1,0 +1,162 @@
+[
+  {
+    "index": 3126,
+    "type": "out_of_range",
+    "subject": "SYNTH-001-0053",
+    "visit": "Visit 2",
+    "field": "SYSBP",
+    "injected_value": 246.1
+  },
+  {
+    "index": 4422,
+    "type": "out_of_range",
+    "subject": "SYNTH-001-0074",
+    "visit": "Visit 8",
+    "field": "SYSBP",
+    "injected_value": 237.8
+  },
+  {
+    "index": 4440,
+    "type": "out_of_range",
+    "subject": "SYNTH-001-0075",
+    "visit": "Visit 1",
+    "field": "SYSBP",
+    "injected_value": 221.7
+  },
+  {
+    "index": 3960,
+    "type": "out_of_range",
+    "subject": "SYNTH-001-0067",
+    "visit": "Visit 1",
+    "field": "SYSBP",
+    "injected_value": 241.2
+  },
+  {
+    "index": 2466,
+    "type": "out_of_range",
+    "subject": "SYNTH-001-0042",
+    "visit": "Visit 2",
+    "field": "SYSBP",
+    "injected_value": 259.0
+  },
+  {
+    "index": 2721,
+    "type": "temporal",
+    "subject": "SYNTH-001-0046",
+    "visit": "Visit 4",
+    "field": "VSDTC",
+    "injected_value": "2024-02-01"
+  },
+  {
+    "index": 635,
+    "type": "temporal",
+    "subject": "SYNTH-001-0011",
+    "visit": "Visit 6",
+    "field": "VSDTC",
+    "injected_value": "2024-01-14"
+  },
+  {
+    "index": 3512,
+    "type": "temporal",
+    "subject": "SYNTH-001-0059",
+    "visit": "Visit 6",
+    "field": "VSDTC",
+    "injected_value": "2024-01-10"
+  },
+  {
+    "index": 237,
+    "type": "temporal",
+    "subject": "SYNTH-001-0004",
+    "visit": "Visit 10",
+    "field": "VSDTC",
+    "injected_value": "2023-12-27"
+  },
+  {
+    "index": 5816,
+    "type": "temporal",
+    "subject": "SYNTH-001-0097",
+    "visit": "Visit 10",
+    "field": "VSDTC",
+    "injected_value": "2023-11-29"
+  },
+  {
+    "index": 5672,
+    "type": "missing",
+    "subject": "SYNTH-001-0095",
+    "visit": "Visit 6",
+    "field": "VSSTRESN",
+    "injected_value": null
+  },
+  {
+    "index": 4153,
+    "type": "missing",
+    "subject": "SYNTH-001-0070",
+    "visit": "Visit 3",
+    "field": "VSSTRESN",
+    "injected_value": null
+  },
+  {
+    "index": 1714,
+    "type": "missing",
+    "subject": "SYNTH-001-0029",
+    "visit": "Visit 6",
+    "field": "VSSTRESN",
+    "injected_value": null
+  },
+  {
+    "index": 1367,
+    "type": "missing",
+    "subject": "SYNTH-001-0023",
+    "visit": "Visit 8",
+    "field": "VSSTRESN",
+    "injected_value": null
+  },
+  {
+    "index": 5624,
+    "type": "missing",
+    "subject": "SYNTH-001-0094",
+    "visit": "Visit 8",
+    "field": "VSSTRESN",
+    "injected_value": null
+  },
+  {
+    "index": 1,
+    "type": "cross_field",
+    "subject": "SYNTH-001-0001",
+    "visit": "Visit 1",
+    "field": "DIABP",
+    "injected_value": 130.8
+  },
+  {
+    "index": 55,
+    "type": "cross_field",
+    "subject": "SYNTH-001-0001",
+    "visit": "Visit 10",
+    "field": "DIABP",
+    "injected_value": 125.9
+  },
+  {
+    "index": 7,
+    "type": "cross_field",
+    "subject": "SYNTH-001-0001",
+    "visit": "Visit 2",
+    "field": "DIABP",
+    "injected_value": 122.3
+  },
+  {
+    "index": 13,
+    "type": "cross_field",
+    "subject": "SYNTH-001-0001",
+    "visit": "Visit 3",
+    "field": "DIABP",
+    "injected_value": 132.0
+  },
+  {
+    "index": 19,
+    "type": "cross_field",
+    "subject": "SYNTH-001-0001",
+    "visit": "Visit 4",
+    "field": "DIABP",
+    "injected_value": 140.3
+  }
+]
